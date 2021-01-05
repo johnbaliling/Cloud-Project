@@ -1,0 +1,7 @@
+[webservers]
+10.0.0.4 ansible_pyhton_interpreter=/usr/bin/python3
+10.0.0.5 ansible_pyhton_interpreter=/usr/bin/python3
+10.0.0.6 ansible_pyhton_interpreter=/usr/bin/python3
+
+[elk]
+40.87.44.47 ansible_pyhton_interpreter=/usr/bin/python3
