@@ -14,7 +14,7 @@ The final setup consisted of 4 servers running Damn Vulnerable Web Application (
 
 The files in this repository were used to configure the network depicted below.
 
-![](Diagrams\Cloud%20Project%20Diagram%20Screenshot.png)
+![](https://github.com/jpbling/Cloud-Project/blob/main/Diagrams/Cloud%20Project%20Diagram%20Screenshot.PNG)
 ![](Diagrams\ELK_group_vnet%20Azure%20Diagram.png)
 ![](Diagrams\RedReamNetwork%20Azure%20Diagram.png)
 
