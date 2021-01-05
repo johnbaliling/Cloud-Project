@@ -15,8 +15,8 @@ The final setup consisted of 4 servers running Damn Vulnerable Web Application (
 The files in this repository were used to configure the network depicted below.
 
 ![](https://github.com/jpbling/Cloud-Project/blob/main/Diagrams/Cloud%20Project%20Diagram%20Screenshot.PNG)
-![](Diagrams\ELK_group_vnet%20Azure%20Diagram.png)
-![](Diagrams\RedReamNetwork%20Azure%20Diagram.png)
+![](https://github.com/jpbling/Cloud-Project/blob/main/Diagrams/ELK_group_vnet%20Azure%20Diagram.PNG)
+![](https://github.com/jpbling/Cloud-Project/blob/main/Diagrams/RedReamNetwork%20Azure%20Diagram.PNG)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YAML file may be used to install only certain pieces of it, such as Filebeat.
 
@@ -86,7 +86,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![](Diagrams\docker%20ps%20screenshot.png)
+![](https://github.com/jpbling/Cloud-Project/blob/main/Diagrams/docker%20ps%20screenshot.PNG)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
